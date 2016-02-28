@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InClass07</string>
+
+    <string name="StoryTitle">StoryTitle</string>
+    <string name="StoryPubEditText">StoryPubEditText</string>
+    <string name="Description">Description</string>
+
+</resources>
